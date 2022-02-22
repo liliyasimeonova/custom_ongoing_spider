@@ -3,7 +3,7 @@
 Web crawler to online store: https://gplay.bg/
 
 We take the following data of an item:
-category, subcategory, product, title, subtitle, number of the product, price
+category, subcategory, title, subtitle, number of the product, price
 
 The scraped data is stored in a sqlite3 database.
 
